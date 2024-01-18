@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: []()
+- Live Site URL: [https://app.netlify.com/sites/quiel-glass-effect-login-page/configuration/general](https://app.netlify.com/sites/quiel-glass-effect-login-page/configuration/general)
 
 ## My process
 
